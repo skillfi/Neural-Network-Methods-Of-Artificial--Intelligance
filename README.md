@@ -1,2 +1,12 @@
-# Neural Network Methods Of Artificial -Intelligance
- 
+# Neural Network Methods Of Artificial Intelligance
+
+- [ ] Лабораторні роботи
+  - [ ] Лабораторна робота 1
+  - [ ] Лабораторна робота 2
+  - [ ] 3
+  - [ ] 4
+  - [ ] 5
+- [ ] Практичні роботи
+  - [ ] Практична робота 1
+  - [X] Практична робота 2
+  - [X] Практична робота 3
