@@ -2,8 +2,10 @@
 
 - [ ] Лабораторні роботи
   - [ ] Лабораторна робота 1
+    - ``MATLAB 2018a\R2018a\examples\nnet\main\prprob.m
+      ``
     - ``
-    MATLAB 2018a\R2018a\examples\nnet\main\appcr1``
+    MATLAB 2018a\R2018a\examples\nnet\main\appcr1.m``
     - ``line 20 ...plotchar(X(:,n))`` - ``n`` - номер букви в алфавіті
     - ``line 68 ...plotchar(Xn(:,n))`` - ``n`` - номер букви в алфавіті
     - Літера до навчання
@@ -14,6 +16,7 @@
     ![Літера після навчання](https://github.com/skillfi/Neural-Network-Methods-Of-Artificial--Intelligance/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%201/noisedLetter.png)
     - Відсоток помилок розпізнання
     ![Відсоток помилок розпізнання](https://github.com/skillfi/Neural-Network-Methods-Of-Artificial--Intelligance/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%201/Recognitions%20Eror.png)
+    - ``MATLAB 2018a\R2018a\toolbox\nnet\nnet\nnnetwork\newff.m``
   - [ ] Лабораторна робота 2
   - [X] Лабораторна робота 3
   - [ ] Лабораторна робота 4
