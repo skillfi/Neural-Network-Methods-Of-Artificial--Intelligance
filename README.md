@@ -17,7 +17,7 @@
     - Відсоток помилок розпізнання
     ![Відсоток помилок розпізнання](https://github.com/skillfi/Neural-Network-Methods-Of-Artificial--Intelligance/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%201/Recognitions%20Eror.png)
     - ``MATLAB 2018a\R2018a\toolbox\nnet\nnet\nnnetwork\newff.m``
-    - Результат навчання![]()
+    - Результат навчання![Результат навчання](https://github.com/skillfi/Neural-Network-Methods-Of-Artificial--Intelligance/blob/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%201/newff.png)
   - [ ] Лабораторна робота 2
   - [X] Лабораторна робота 3
   - [ ] Лабораторна робота 4
