@@ -1,7 +1,7 @@
 # Neural Network Methods Of Artificial Intelligance
 
 - [ ] Лабораторні роботи
-  - [ ] Лабораторна робота 1
+  - [X] Лабораторна робота 1
     - ``MATLAB 2018a\R2018a\examples\nnet\main\prprob.m
       ``
     - ``
